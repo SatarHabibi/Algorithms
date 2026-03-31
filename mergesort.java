@@ -1,7 +1,7 @@
 public class mergesort {
     public static void main(String[] args) {
         int data[]={1,0,4,6,7,3,9};
-app obj=new app();
+mergesort obj=new mergesort();
 obj.mergesort(data, 0, data.length-1);
 for (int i : data) {
     System.out.print(i+"      ");
