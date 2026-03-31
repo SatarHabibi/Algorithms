@@ -1,4 +1,4 @@
-public class app {
+public class mergesort {
     public static void main(String[] args) {
         int data[]={1,0,4,6,7,3,9};
 app obj=new app();
